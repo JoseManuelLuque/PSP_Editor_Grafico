@@ -26,7 +26,6 @@ try
     Punto circulo = new Circulo(Int32.Parse(xCirculo) , Int32.Parse(yCirculo), Int32.Parse(radio));
     
     Console.WriteLine("");
-    //Prueba
     
     //Rectangulo
     Console.WriteLine("Vamos a crear un Círculo");
