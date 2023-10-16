@@ -1,0 +1,14 @@
+C:\Users\josem\Escritorio\PSP\PSP\bin\Debug\net7.0\PSP.exe
+C:\Users\josem\Escritorio\PSP\PSP\bin\Debug\net7.0\PSP.deps.json
+C:\Users\josem\Escritorio\PSP\PSP\bin\Debug\net7.0\PSP.runtimeconfig.json
+C:\Users\josem\Escritorio\PSP\PSP\bin\Debug\net7.0\PSP.dll
+C:\Users\josem\Escritorio\PSP\PSP\bin\Debug\net7.0\PSP.pdb
+C:\Users\josem\Escritorio\PSP\PSP\obj\Debug\net7.0\PSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\Escritorio\PSP\PSP\obj\Debug\net7.0\PSP.AssemblyInfoInputs.cache
+C:\Users\josem\Escritorio\PSP\PSP\obj\Debug\net7.0\PSP.AssemblyInfo.cs
+C:\Users\josem\Escritorio\PSP\PSP\obj\Debug\net7.0\PSP.csproj.CoreCompileInputs.cache
+C:\Users\josem\Escritorio\PSP\PSP\obj\Debug\net7.0\PSP.dll
+C:\Users\josem\Escritorio\PSP\PSP\obj\Debug\net7.0\refint\PSP.dll
+C:\Users\josem\Escritorio\PSP\PSP\obj\Debug\net7.0\PSP.pdb
+C:\Users\josem\Escritorio\PSP\PSP\obj\Debug\net7.0\PSP.genruntimeconfig.cache
+C:\Users\josem\Escritorio\PSP\PSP\obj\Debug\net7.0\ref\PSP.dll
